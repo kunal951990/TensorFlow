@@ -1,6 +1,6 @@
 # TensorFlow
 
-## Steps are mentined to be proficent in Machine Learning and Deep Learning without taking help of paid courses.
+## Steps are mentioned to be proficent in Machine Learning and Deep Learning without taking help of paid courses.
 
 Using TensorFlow Library
 
